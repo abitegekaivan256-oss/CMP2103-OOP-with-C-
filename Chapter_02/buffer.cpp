@@ -9,6 +9,7 @@ struct Point {
 };
 
 int main() {
+    
     // Center point of the buffers
     double centerX, centerY;
 
